@@ -1,0 +1,6 @@
+{
+  "name": "Jailaxmi Group Job Application Manager",
+  "description": "A comprehensive job portal and HR applicant tracking system integrated with a Google Apps Script database backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
